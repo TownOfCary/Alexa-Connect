@@ -17,6 +17,6 @@
  * @author Ulas Kutuk
  **/
 public class PackageUtils {
-    public static final String namespace = '@@@';
-    public static String nsp = '@@@';
+    public static final String namespace = 'alexa_toc';
+    public static String nsp = 'alexa_toc';
 }
